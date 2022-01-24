@@ -1,0 +1,6 @@
+20/06/29 10:17:13 INFO HelloSpark$: 8
+20/06/29 10:17:13 INFO HelloSpark$: Starting Hello Spark
+20/06/29 10:17:28 INFO HelloSpark$: Country: United Kingdom Count: 1
+20/06/29 10:17:28 INFO HelloSpark$: Country: Canada Count: 2
+20/06/29 10:17:28 INFO HelloSpark$: Country: United States Count: 4
+20/06/29 10:17:28 INFO HelloSpark$: Finished Hello Spark
